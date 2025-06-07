@@ -10,8 +10,7 @@ width="200" height="200">
 👉 Scan the above QR or <a href="https://quizo-app.tiiny.site/" target="_blank">Click here</a> to visit
 
 
-# Get APK: 
-[Download Here](https://quizo-app.tiiny.site/android/app/Quizo.apk)
+# Get APK: [Download Here](https://quizo-app.tiiny.site/android/app/Quizo.apk)
 
 # Features
   🌟 Registration and login functionalities for both students and administrators. <br><br>
@@ -42,26 +41,29 @@ width="200" height="200">
 ```
 
 # Screenshots
-<table cellpadding="5">
+<table>
   <tr>
-    <td style="padding:5px;"><img src="screenshots/0.png" height="400" width="200"/></td>
-    <td style="padding:5px;"><img src="screenshots/1.png" height="400" width="200"/></td>
-    <td style="padding:5px;"><img src="screenshots/2.png" height="400" width="200"/></td>
+    <td><img src="screenshots/0.png" height="400" width="200"/></td>
+    <td><img src="screenshots/1.png" height="400" width="200"/></td>
+    <td><img src="screenshots/2.png" height="400" width="200"/></td>
   </tr>
+  <br>
   <tr>
-    <td style="padding:5px;"><img src="screenshots/3.png" height="400" width="200"/></td>
-    <td style="padding:5px;"><img src="screenshots/4.png" height="400" width="200"/></td>
-    <td style="padding:5px;"><img src="screenshots/5.png" height="400" width="200"/></td>
+    <td><img src="screenshots/3.png" height="400" width="200"/></td>
+    <td><img src="screenshots/4.png" height="400" width="200"/></td>
+    <td><img src="screenshots/5.png" height="400" width="200"/></td>
   </tr>
+  <br>
   <tr>
-    <td style="padding:5px;"><img src="screenshots/6.png" height="400" width="200"/></td>
-    <td style="padding:5px;"><img src="screenshots/7.png" height="400" width="200"/></td>
-    <td style="padding:5px;"><img src="screenshots/8.png" height="400" width="200"/></td>
+    <td><img src="screenshots/6.png" height="400" width="200"/></td>
+    <td><img src="screenshots/7.png" height="400" width="200"/></td>
+    <td><img src="screenshots/8.png" height="400" width="200"/></td>
   </tr>
+  <br>
   <tr>
-    <td style="padding:5px;"><img src="screenshots/9.png" height="400" width="200"/></td>
-    <td style="padding:5px;"><img src="screenshots/10.png" height="400" width="200"/></td>
-    <td style="padding:5px;"><img src="screenshots/11.png" height="400" width="200"/></td>
+    <td><img src="screenshots/9.png" height="400" width="200"/></td>
+    <td><img src="screenshots/10.png" height="400" width="200"/></td>
+    <td><img src="screenshots/11.png" height="400" width="200"/></td>
   </tr>
 </table>
 
