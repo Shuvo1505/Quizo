@@ -7,7 +7,7 @@
 <img src="website/website-qr.png"
 width="200" height="200">
 
-👉 Scan the above QR or <a href="https://quizo-app.tiiny.site/" target="_blank">Click here</a> to visit
+👉 Scan the above QR or <a href="https://quizo-app.tiiny.site/" target="blank">Click here</a> to visit
 
 
 # Get APK: [Download Here](https://quizo-app.tiiny.site/android/app/Quizo.apk)
@@ -28,39 +28,39 @@ width="200" height="200">
 
 # Dependencies
 ```sh
-> dotsindicator 4.2
-> firebaseBom 33.14.0
-> googleServices 4.4.2
-> gson 2.10.1
-> appcompat 1.7.0
-> material 1.12.0
-> roomKtx 2.7.1
-> roomRuntime 2.7.1
-> activity 1.10.1
-> constraintlayout 2.2.1
+dotsindicator 4.2 <br>
+firebaseBom 33.14.0
+googleServices 4.4.2
+gson 2.10.1
+appcompat 1.7.0
+material 1.12.0
+roomKtx 2.7.1
+roomRuntime 2.7.1
+activity 1.10.1
+constraintlayout 2.2.1
 ```
 
 # Screenshots
 <table>
   <tr>
-    <td><img src="screenshots/0.png" height="400" width="150"/></td>
-    <td><img src="screenshots/1.png" height="400" width="150"/></td>
-    <td><img src="screenshots/2.png" height="400" width="150"/></td>
+    <td><img src="screenshots/0.png" height="400" width="200"/></td>
+    <td><img src="screenshots/1.png" height="400" width="200"/></td>
+    <td><img src="screenshots/2.png" height="400" width="200"/></td>
   </tr>
   <tr>
-    <td><img src="screenshots/3.png" height="400" width="150"/></td>
-    <td><img src="screenshots/4.png" height="400" width="150"/></td>
-    <td><img src="screenshots/5.png" height="400" width="150"/></td>
+    <td><img src="screenshots/3.png" height="400" width="200"/></td>
+    <td><img src="screenshots/4.png" height="400" width="200"/></td>
+    <td><img src="screenshots/5.png" height="400" width="200"/></td>
   </tr>
   <tr>
-    <td><img src="screenshots/6.png" height="400" width="150"/></td>
-    <td><img src="screenshots/7.png" height="400" width="150"/></td>
-    <td><img src="screenshots/8.png" height="400" width="150"/></td>
+    <td><img src="screenshots/6.png" height="400" width="200"/></td>
+    <td><img src="screenshots/7.png" height="400" width="200"/></td>
+    <td><img src="screenshots/8.png" height="400" width="200"/></td>
   </tr>
   <tr>
-    <td><img src="screenshots/9.png" height="400" width="150"/></td>
-    <td><img src="screenshots/10.png" height="400" width="150"/></td>
-    <td><img src="screenshots/11.png" height="400" width="150"/></td>
+    <td><img src="screenshots/9.png" height="400" width="200"/></td>
+    <td><img src="screenshots/10.png" height="400" width="200"/></td>
+    <td><img src="screenshots/11.png" height="400" width="200"/></td>
   </tr>
 </table>
 
