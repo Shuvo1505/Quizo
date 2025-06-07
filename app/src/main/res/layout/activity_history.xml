@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    tools:context=".activities.user.system.HistoryActivity">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="0dp"
+        android:layout_height="40dp"
+        android:background="@color/black"
+        android:elevation="4dp"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
+
+    <ImageView
+        android:id="@+id/imageViewHistory"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="64dp"
+        android:background="?selectableItemBackgroundBorderless"
+        android:contentDescription="@string/todo_h"
+        android:hapticFeedbackEnabled="true"
+        android:padding="4dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/arrow"
+        app:tint="#cecece" />
+
+    <TextView
+        android:id="@+id/textView"
+        style="@style/titleTextStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:text="@string/history"
+        android:textColor="#cecece"
+        app:layout_constraintBottom_toBottomOf="@+id/imageViewHistory"
+        app:layout_constraintStart_toEndOf="@+id/imageViewHistory"
+        app:layout_constraintTop_toTopOf="@+id/imageViewHistory" />
+
+    <TextView
+        android:id="@+id/overallpoints"
+        style="@style/text_heading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:text="@string/overall_points"
+        app:layout_constraintStart_toStartOf="@+id/imageViewHistory"
+        app:layout_constraintTop_toBottomOf="@+id/textView" />
+
+    <TextView
+        android:id="@+id/total_attempts"
+        style="@style/text_heading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="2dp"
+        android:layout_marginTop="16dp"
+        android:text="@string/total_attempts"
+        app:layout_constraintStart_toStartOf="@+id/overallpoints"
+        app:layout_constraintTop_toBottomOf="@+id/overallpoints" />
+
+    <TextView
+        android:id="@+id/tvOverAllPointsHistory"
+        style="@style/text_heading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:layout_marginBottom="11dp"
+        android:textColor="#c0e5fd"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="@+id/overallpoints"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/overallpoints"
+        app:layout_constraintTop_toTopOf="@+id/overallpoints"
+        app:layout_constraintVertical_bias="0.214"
+        tools:text="60" />
+
+    <TextView
+        android:id="@+id/tvtotal_attemptsHistory"
+        style="@style/text_heading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="4dp"
+        android:textColor="#c0e5fd"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="@+id/total_attempts"
+        app:layout_constraintStart_toEndOf="@+id/total_attempts"
+        app:layout_constraintTop_toTopOf="@+id/total_attempts"
+        app:layout_constraintVertical_bias="0.0"
+        tools:text="16" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rvHistory"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="16dp"
+        android:clipToPadding="false"
+        android:paddingBottom="16dp"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/total_attempts"
+        app:layout_constraintVertical_bias="0.0"
+        tools:itemCount="6"
+        tools:listitem="@layout/item_history" />
+
+    <TextView
+        android:id="@+id/textDataHolder"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="177dp"
+        android:layout_marginTop="362dp"
+        android:layout_marginEnd="176dp"
+        android:layout_marginBottom="350dp"
+        android:text="@string/no_data_found"
+        android:textColor="#cecece"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:visibility="gone"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

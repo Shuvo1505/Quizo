@@ -1,0 +1,31 @@
+[versions]
+agp = "8.8.2"
+dotsindicator = "4.2"
+#noinspection GradleDependency
+firebaseBom = "33.14.0"
+googleServices = "4.4.2"
+gson = "2.10.1"
+#noinspection GradleDependency
+appcompat = "1.7.0"
+material = "1.12.0"
+roomKtx = "2.7.1"
+roomRuntime = "2.7.1"
+activity = "1.10.1"
+constraintlayout = "2.2.1"
+
+[libraries]
+dotsindicator = { module = "com.tbuonomo:dotsindicator", version.ref = "dotsindicator" }
+firebase-analytics = { module = "com.google.firebase:firebase-analytics" }
+firebase-bom = { module = "com.google.firebase:firebase-bom", version.ref = "firebaseBom" }
+firebase-firestore = { module = "com.google.firebase:firebase-firestore" }
+google-services = { module = "com.google.gms:google-services", version.ref = "googleServices" }
+gson = { module = "com.google.code.gson:gson", version.ref = "gson" }
+appcompat = { group = "androidx.appcompat", name = "appcompat", version.ref = "appcompat" }
+material = { group = "com.google.android.material", name = "material", version.ref = "material" }
+room-ktx = { module = "androidx.room:room-ktx", version.ref = "roomKtx" }
+room-runtime = { module = "androidx.room:room-runtime", version.ref = "roomRuntime" }
+activity = { group = "androidx.activity", name = "activity", version.ref = "activity" }
+constraintlayout = { group = "androidx.constraintlayout", name = "constraintlayout", version.ref = "constraintlayout" }
+
+[plugins]
+android-application = { id = "com.android.application", version.ref = "agp" }

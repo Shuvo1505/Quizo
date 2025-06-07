@@ -1,0 +1,166 @@
+<resources>
+    <string name="app_name">Quizo</string>
+
+    <string-array name="subjects_array">
+        <item>@string/math</item>
+        <item>@string/literature</item>
+        <item>@string/geography</item>
+        <item>@string/computer</item>
+    </string-array>
+    <string name="back_button">Back</string>
+    <string name="leaderboard_title">Leaderboard</string>
+    <string name="your_score_label">Your Score</string>
+    <string name="other_players_label">Other Players (Rank Wise)</string>
+    <string name="error_fetching_leaderboard">Error fetching leaderboard data</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="login_to_continue">Login to continue</string>
+    <string name="username_cannot_empty">Username cannot be empty</string>
+    <string name="password_cannot_empty">Password cannot be empty</string>
+    <string name="old_password_cannot_be_empty">Old password cannot be empty</string>
+    <string name="password_must_be_same">Password and confirm password must be same</string>
+    <string name="new_password_must_be_different">Your new password must be different from your old password</string>
+    <string name="email_cannot_empty">Email cannot be empty</string>
+    <string name="email_not_valid">Email must be valid</string>
+    <string name="don_t_have_an_account">Don’t have an account?</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="create_account">Create Account</string>
+    <string name="email">Email</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="rule">Quiz Rules</string>
+    <string name="history">History</string>
+    <string name="quiz_option">Quiz Topics</string>
+    <string name="edit_password">Edit Password</string>
+    <string name="logout">Logout</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_new_password">Confirm New Password</string>
+    <string name="old_password">Old Password</string>
+    <string name="create">Sign Up</string>
+    <string name="save_password">Save Password</string>
+    <string name="literature">Literature</string>
+    <string name="geography">Geography</string>
+    <string name="computer">Computer Science</string>
+    <string name="math">Mathematics</string>
+    <string name="finish">Finish</string>
+    <string name="next">Next</string>
+    <string name="final_result">Final Result</string>
+    <string name="subject">Subject :</string>
+    <string name="correct">Correct :</string>
+    <string name="incorrect">Incorrect :</string>
+    <string name="earned">Earned :</string>
+    <string name="total_attempts">Total Attempts : </string>
+    <string name="total_attempt">Total Attempt : </string>
+    <string name="overall_points">Overall Points : </string>
+    <string name="math_quiz">Mathematics</string>
+    <string name="literature_quiz">Literature</string>
+    <string name="geography_quiz">Geography</string>
+    <string name="computer_quiz">Computer Science</string>
+    <string name="date">Date :</string>
+    <string name="start_again">Start Again!</string>
+
+    <string name="rules1_description">
+        The Quiz will contain randomized questions from each topic
+    </string>
+    <string name="rules2_description">
+        Every correct answer scores you 5 points
+    </string>
+    <string name="rules3_description">
+        Every wrong answer deduct you 2 points
+    </string>
+    <string name="rules4_description">
+        Your results will be saved and will be accumulated in your history
+    </string>
+    <string name="home">User Dashboard</string>
+    <string name="app_version">V-201</string>
+    <string name="login_as">Continue as</string>
+    <string name="admin">Admin</string>
+    <string name="new_as_admin">New as Admin?</string>
+    <string name="register_admin">Register</string>
+    <string name="admin_login_txt">Admin Login</string>
+    <string name="admin_register">Admin Register</string>
+    <string name="proceed">Proceed</string>
+    <string name="username_too_long">Username is too long to proceed</string>
+    <string name="password_warning">Password must be 8–16 characters long and contain at least one letter, one number, and one special character.</string>
+    <string name="please_wait">Please wait…</string>
+    <string name="password_format_error">Password Format Error</string>
+    <string name="password_too_long">Password is too long to proceed</string>
+    <string name="todo_a">TODO</string>
+    <string name="todo_b">TODO</string>
+    <string name="todo_c">TODO</string>
+    <string name="todo_d">TODO</string>
+    <string name="todo_e">TODO</string>
+    <string name="todo_f">TODO</string>
+    <string name="todo_g">TODO</string>
+    <string name="todo_h">TODO</string>
+    <string name="todo_i">TODO</string>
+    <string name="todo_j">TODO</string>
+    <string name="todo_k">TODO</string>
+    <string name="todo_l">TODO</string>
+    <string name="todo_z">TODO</string>
+    <string name="todo_x">TODO</string>
+    <string name="todo_v">TODO</string>
+    <string name="todo_n">TODO</string>
+    <string name="todo_vc">TODO</string>
+    <string name="todo_vv">TODO</string>
+    <string name="todo_qo">TODO</string>
+    <string name="todo_vds">TODO</string>
+    <string name="todo_mm">TODO</string>
+    <string name="todo_nj">TODO</string>
+    <string name="back_oo">Back</string>
+    <string name="set_questions">Set Questions</string>
+    <string name="select_subject">Select Subject:</string>
+    <string name="loading_question_count">Loading question count…</string>
+    <string name="enter_question">Enter Question</string>
+    <string name="answer_choices">Answer Choices:</string>
+    <string name="answer_1">Answer 1</string>
+    <string name="correct_ll">Correct</string>
+    <string name="answer_2">Answer 2</string>
+    <string name="correct_mm">Correct</string>
+    <string name="answer_3">Answer 3</string>
+    <string name="correct_bb">Correct</string>
+    <string name="answer_4">Answer 4</string>
+    <string name="correct_cc">Correct</string>
+    <string name="save">Save</string>
+    <string name="email_in_use">This email is already used by someone else</string>
+    <string name="admin_created">Admin Created</string>
+    <string name="currently">"Currently "</string>
+    <string name="questions_for">" questions for "</string>
+    <string name="dot">.</string>
+    <string name="question_added_successfully">Question added successfully</string>
+    <string name="failed_to_add_question">Failed to add question</string>
+    <string name="exactly_one_option_must_be_marked_as_correct">Exactly one option must be marked as correct</string>
+    <string name="please_enter_the_right_password">Your old password is not correct</string>
+    <string name="password_updated_successfully">Password Updated Successfully</string>
+    <string name="invalid_quiz_subject">Invalid quiz subject</string>
+    <string name="set_questions_admin">Set Questions</string>
+    <string name="admin_dashboard">Admin Dashboard</string>
+    <string name="manage_questions">Manage Questions</string>
+    <string name="delete_question">delete_question</string>
+    <string name="all_fields_are_required">All fields are required</string>
+    <string name="progress_lost">If you quit the quiz, your current progress will be lost Do you want to proceed ?</string>
+    <string name="logout_alert">Do you want to logout from this app ?</string>
+    <string name="about">About</string>
+    <string name="document">Website</string>
+    <string name="more_options">More Options</string>
+    <string name="deletion_message">This action cannot be undone. Are you sure you want to delete this question ?</string>
+    <string name="cross">cross</string>
+    <string name="documentation">Documentation</string>
+    <string name="about_app">About</string>
+    <string name="why_quizo">Why Quizo ?</string>
+    <string name="q1">1 Immerse yourself in diverse quizzes and effortlessly track your score history to monitor progress.</string>
+    <string name="q2">2 Analyze score history for targeted learning and continuous improvement.</string>
+    <string name="q3">3 Enjoy a dynamic quiz questions with admin interactions.</string>
+    <string name="q4">4 Your data is secure with hashed passwords.</string>
+    <string name="icon_source">Icon Source</string>
+    <string name="gratitude">Thank you, Flaticon, for the excellent icon assets that greatly enhanced this app\'s visual appeal.</string>
+    <string name="tap_here_to_view">Tap here to view all creators in a random manner</string>
+    <string name="developer_s_profile">Developer\'s Profile:</string>
+    <string name="github">GitHub</string>
+    <string name="computer_science">Computer Science</string>
+    <string name="new_password_cannot_be_empty">New password cannot be empty</string>
+    <string name="confirm_password_cannot_be_empty">Confirmation field cannot be empty</string>
+    <string name="no_data_found">No data found to display!</string>
+    <string name="leaderboard">Leaderboard</string>
+</resources>

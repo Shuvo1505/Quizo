@@ -1,0 +1,31 @@
+// This is just a basic structure. Configure your own google-services.json from the Firebase Console before integrating Firebase into your project.
+
+{
+  "project_info": {
+    "project_number": "",
+    "project_id": "",
+    "storage_bucket": ""
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "",
+        "android_client_info": {
+          "package_name": "com.purnendu.quizo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": ""
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": ""
+}
