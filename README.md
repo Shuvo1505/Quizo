@@ -1,7 +1,7 @@
 # Getting Started
-  ✅ Android version must be 7.0 (Nougat) or above <br>
-  ✅ This app is optimized for smartphones. User experience on tablets may be suboptimal and it does not support wearable devices <br>
-  ✅ To access this app, you'll need to simply download and install the apk file <br>
+  ✅ Android version must be 7.0 (Nougat) or above <br><br>
+  ✅ This app is optimized for smartphones. User experience on tablets may be suboptimal and it does not support wearable devices <br><br>
+  ✅ To access this app, you'll need to simply download and install the apk file <br><br>
 
 # Visit Website
 <img src="website/website-qr.png"
@@ -10,22 +10,22 @@ width="200" height="200">
 👉 Scan the above QR or <a href="https://quizo-app.tiiny.site/" target="_blank">Click here</a> to visit
 
 
-# Get APK: [Download Here](https://quizo-app.tiiny.site/android/app/Quizo.apk)
+# Get APK: 
+[Download Here](https://quizo-app.tiiny.site/android/app/Quizo.apk)
 
 # Features
-  🌟 Registration and login functionalities for both students and administrators. <br>
-  🌟 Administrators have the capability to set up, manage, and organize quiz questions for different subjects. <br>
-  🌟 Students can monitor their individual performance and track their progress over time, including access to a leaderboard. <br>
-  🌟 Students can take quizzes in Computer Science, Mathematics, Geography, and Literature primarily. <br>
-  🌟 Biometric or device lock authentication is required to change the password for student/admin accounts. <br>
+  🌟 Registration and login functionalities for both students and administrators. <br><br>
+  🌟 Administrators have the capability to set up, manage, and organize quiz questions for different subjects. <br><br>
+  🌟 Students can monitor their individual performance and track their progress over time, including access to a leaderboard. <br><br>
+  🌟 Students can take quizzes in Computer Science, Mathematics, Geography, and Literature primarily. <br><br>
+  🌟 Biometric or device lock authentication is required to change the password for student/admin accounts. <br><br>
 
 # Technology Used
-  ➡️ Java used as main programming language <br>
-  ➡️ Room Database (Based on SQLite) for local database functionality <br>
-  ➡️ Firebase Firestore for centralized leaderboard functionality <br>
-  ➡️ HTML used for displaying web related exceptions <br>
-
-----------------------------------------------------------------------------------------------------------------------
+  ➡️ Java used as main programming language <br><br>
+  ➡️ Room Database (Based on SQLite) for local database functionality <br><br>
+  ➡️ Firebase Firestore for centralized leaderboard functionality <br><br>
+  ➡️ HTML used for displaying web related exceptions <br><br>
+  
 
 # Dependencies
 ```sh
@@ -42,26 +42,26 @@ width="200" height="200">
 ```
 
 # Screenshots
-<table>
+<table cellpadding="5">
   <tr>
-    <td><img src="screenshots/0.png" height="400" width="200"/></td>
-    <td><img src="screenshots/1.png" height="400" width="200"/></td>
-    <td><img src="screenshots/2.png" height="400" width="200"/></td>
+    <td style="padding:5px;"><img src="screenshots/0.png" height="400" width="200"/></td>
+    <td style="padding:5px;"><img src="screenshots/1.png" height="400" width="200"/></td>
+    <td style="padding:5px;"><img src="screenshots/2.png" height="400" width="200"/></td>
   </tr>
   <tr>
-    <td><img src="screenshots/3.png" height="400" width="200"/></td>
-    <td><img src="screenshots/4.png" height="400" width="200"/></td>
-    <td><img src="screenshots/5.png" height="400" width="200"/></td>
+    <td style="padding:5px;"><img src="screenshots/3.png" height="400" width="200"/></td>
+    <td style="padding:5px;"><img src="screenshots/4.png" height="400" width="200"/></td>
+    <td style="padding:5px;"><img src="screenshots/5.png" height="400" width="200"/></td>
   </tr>
   <tr>
-    <td><img src="screenshots/6.png" height="400" width="200"/></td>
-    <td><img src="screenshots/7.png" height="400" width="200"/></td>
-    <td><img src="screenshots/8.png" height="400" width="200"/></td>
+    <td style="padding:5px;"><img src="screenshots/6.png" height="400" width="200"/></td>
+    <td style="padding:5px;"><img src="screenshots/7.png" height="400" width="200"/></td>
+    <td style="padding:5px;"><img src="screenshots/8.png" height="400" width="200"/></td>
   </tr>
   <tr>
-    <td><img src="screenshots/9.png" height="400" width="200"/></td>
-    <td><img src="screenshots/10.png" height="400" width="200"/></td>
-    <td><img src="screenshots/11.png" height="400" width="200"/></td>
+    <td style="padding:5px;"><img src="screenshots/9.png" height="400" width="200"/></td>
+    <td style="padding:5px;"><img src="screenshots/10.png" height="400" width="200"/></td>
+    <td style="padding:5px;"><img src="screenshots/11.png" height="400" width="200"/></td>
   </tr>
 </table>
 
