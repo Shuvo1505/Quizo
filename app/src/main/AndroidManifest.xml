@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.USE_BIOMETRIC" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Quizo">
+        <activity
+            android:name=".activities.splash.SplashActivity"
+            android:exported="true"
+            android:theme="@style/Theme.Quizo">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activities.user.system.LeaderBoardActivity"
+            android:theme="@style/Theme.Quizo" />
+        <activity
+            android:name=".activities.subjects.ComputerQuizActivity"
+            android:theme="@style/Theme.Quizo" />
+        <activity
+            android:name=".activities.info.AboutActivity"
+            android:theme="@style/Theme.Quizo" />
+        <activity
+            android:name=".activities.web.WebActivity"
+            android:theme="@style/Theme.Quizo" />
+        <activity
+            android:name=".activities.admin.access.AdminEditPassword"
+            android:theme="@style/Theme.Quizo" />
+        <activity
+            android:name=".activities.admin.system.ManageQuestion"
+            android:theme="@style/Theme.Quizo" />
+        <activity
+            android:name=".activities.admin.system.AdminActivity"
+            android:theme="@style/Theme.Quizo" />
+        <activity
+            android:name=".activities.subjects.LiteratureQuizActivity"
+            android:theme="@style/Theme.Quizo" />
+        <activity
+            android:name=".activities.admin.system.QuestionActivity"
+            android:theme="@style/Theme.Quizo"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".activities.admin.access.AdminRegister"
+            android:theme="@style/Theme.Quizo"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".activities.admin.access.AdminLogin"
+            android:theme="@style/Theme.Quizo"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".activities.subjects.GeographyQuizActivity"
+            android:theme="@style/Theme.Quizo" />
+        <activity
+            android:name=".activities.user.system.FinalResultActivity"
+            android:theme="@style/Theme.Quizo" />
+        <activity
+            android:name=".activities.subjects.MathQuizActivity"
+            android:theme="@style/Theme.Quizo" />
+        <activity
+            android:name=".activities.user.access.EditPasswordActivity"
+            android:theme="@style/Theme.Quizo"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".activities.user.system.HistoryActivity"
+            android:theme="@style/Theme.Quizo" />
+        <activity
+            android:name=".activities.user.system.RuleActivity"
+            android:theme="@style/Theme.Quizo" />
+        <activity
+            android:name=".activities.user.system.QuizOptionActivity"
+            android:theme="@style/Theme.Quizo" />
+        <activity
+            android:name=".activities.user.access.RegisterActivity"
+            android:theme="@style/Theme.Quizo"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".activities.user.access.LoginActivity"
+            android:theme="@style/Theme.Quizo"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name=".activities.user.system.UserActivity"
+            android:theme="@style/Theme.Quizo" />
+    </application>
+
+</manifest>
