@@ -1,5 +1,5 @@
 # Getting Started
-  ✅ Android version must be 7.0 (Nougat) or above
+  ✅ Android version must be 7.0 (Nougat) or above <br>
   ✅ This app is optimized for smartphones. User experience on tablets may be suboptimal and it does not support wearable devices
   ✅ To access this app, you'll need to simply download and install the apk file
 ----------------------------------------------------------------------------------------------------------------------
