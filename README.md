@@ -28,7 +28,7 @@ width="200" height="200">
 
 # Dependencies
 ```sh
-dotsindicator 4.2 <br>
+dotsindicator 4.2
 firebaseBom 33.14.0
 googleServices 4.4.2
 gson 2.10.1
