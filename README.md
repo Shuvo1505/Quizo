@@ -1,9 +1,9 @@
-# Getting Started
+## Getting Started
   ✅ Android version must be 7.0 (Nougat) or above <br><br>
   ✅ This app is optimized for smartphones. User experience on tablets may be suboptimal and it does not support wearable devices <br><br>
   ✅ To access this app, you'll need to simply download and install the apk file <br><br>
 
-# Visit Website
+## Visit Website
 <img src="website/website-qr.png"
 width="200" height="200">
 
@@ -12,22 +12,24 @@ width="200" height="200">
 
 # Get APK: [Download Here](https://quizo-app.tiiny.site/android/app/Quizo.apk)
 
-# Features
+## Features
   🌟 Registration and login functionalities for both students and administrators. <br><br>
   🌟 Administrators have the capability to set up, manage, and organize quiz questions for different subjects. <br><br>
   🌟 Students can monitor their individual performance and track their progress over time, including access to a leaderboard. <br><br>
   🌟 Students can take quizzes in Computer Science, Mathematics, Geography, and Literature primarily. <br><br>
   🌟 Biometric or device lock authentication is required to change the password for student/admin accounts. <br><br>
 
-# Technology Used
+## Technology Used
   ➡️ Java used as main programming language <br><br>
   ➡️ Room Database (Based on SQLite) for local database functionality <br><br>
   ➡️ Firebase Firestore for centralized leaderboard functionality <br><br>
   ➡️ HTML used for displaying web related exceptions <br><br>
   
 
-# Dependencies
+## Dependencies
 ```sh
+gradle 8.14.1
+agp 8.8.2
 dotsindicator 4.2
 firebaseBom 33.14.0
 googleServices 4.4.2
@@ -40,7 +42,7 @@ activity 1.10.1
 constraintlayout 2.2.1
 ```
 
-# Screenshots
+## Screenshots
 <table>
   <tr>
     <td><img src="screenshots/0.png" height="430" width="200"/></td>
@@ -64,7 +66,7 @@ constraintlayout 2.2.1
   </tr>
 </table>
 
-# License
+## License
 ```
 MIT License
 
