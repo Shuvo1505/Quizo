@@ -10,7 +10,8 @@ width="200" height="200">
 👉 Scan the above QR or <a href="https://quizo-app.tiiny.site/" target="blank">Click here</a> to visit
 
 
-## Get APK: [Download Here](https://quizo-app.tiiny.site/android/app/Quizo.apk)
+
+## Get APK for Android: [Download Here](https://quizo-app.tiiny.site/android/app/Quizo.apk)
 
 # Features
   🌟 Registration and login functionalities for both students and administrators. <br><br>
