@@ -43,6 +43,11 @@ activity 1.10.1
 constraintlayout 2.2.1
 ```
 
+# Important Note on google-services.json
+➡️ I just added a dummy google-services.json file for your reference only. You need to configure your own google-services.json file from firebase console if you want to integrate firebase in your project.
+➡️ If you need help to integrate firebase in your project then checkout this video [Getting started with Firebase](https://youtu.be/jbHfJpoOzkI).
+➡️ You can also refer [Firebase Documentation](https://firebase.google.com/docs/android/setup).
+
 # Screenshots
 <table>
   <tr>
