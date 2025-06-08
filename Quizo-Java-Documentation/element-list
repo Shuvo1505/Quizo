@@ -1,0 +1,16 @@
+com.purnendu.quizo
+com.purnendu.quizo.activities.admin.access
+com.purnendu.quizo.activities.admin.system
+com.purnendu.quizo.activities.info
+com.purnendu.quizo.activities.splash
+com.purnendu.quizo.activities.subjects
+com.purnendu.quizo.activities.user.access
+com.purnendu.quizo.activities.user.system
+com.purnendu.quizo.activities.web
+com.purnendu.quizo.adapters
+com.purnendu.quizo.component
+com.purnendu.quizo.dao
+com.purnendu.quizo.databases
+com.purnendu.quizo.dbclients
+com.purnendu.quizo.models
+com.purnendu.quizo.utilities
