@@ -24,7 +24,8 @@ width="200" height="200">
   ➡️ Java used as main programming language <br><br>
   ➡️ Room Database (Based on SQLite) for local database functionality <br><br>
   ➡️ Firebase Firestore for centralized leaderboard functionality <br><br>
-  ➡️ HTML used for displaying web related exceptions <br><br>
+  ➡️ HTML used for displaying web related exceptions and java documentation <br><br>
+  ➡️ Java documentation generated using <a href="https://docs.oracle.com/en/java/javase/24/javadoc/javadoc-tool.html#GUID-7A344353-3BBF-45C4-8B28-15025DDCC643">JavaDoc</a> tool
   
 
 # Dependencies
