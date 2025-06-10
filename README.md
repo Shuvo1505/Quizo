@@ -2,6 +2,7 @@
   ✅ Android version must be 7.0 (Nougat) or above <br><br>
   ✅ This app is optimized for smartphones. User experience on tablets may be suboptimal and it does not support wearable devices <br><br>
   ✅ To access this app, you'll need to simply download and install the apk file <br><br>
+  ✅ I strongly recommend reviewing the provided information thoroughly to gain a clear understanding of the project before proceeding with any work <br><br>
 
 # Visit Website
 <img src="website/website-qr.png"
@@ -25,7 +26,7 @@ width="200" height="200">
   ➡️ Room Database (Based on SQLite) for local database functionality <br><br>
   ➡️ Firebase Firestore for centralized leaderboard functionality <br><br>
   ➡️ HTML used for displaying web related exceptions and java documentation <br><br>
-  ➡️ Java documentation generated using <a href="https://docs.oracle.com/en/java/javase/24/javadoc/javadoc-tool.html#GUID-7A344353-3BBF-45C4-8B28-15025DDCC643">JavaDoc</a> tool
+  ➡️ Java documentation generated using <a href="https://docs.oracle.com/en/java/javase/24/javadoc/javadoc-tool.html#GUID-7A344353-3BBF-45C4-8B28-15025DDCC643">JavaDoc</a> tool <br><br>
   
 
 # Dependencies
