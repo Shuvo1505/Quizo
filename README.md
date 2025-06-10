@@ -8,7 +8,7 @@
 <img src="website/website-qr.png"
 width="200" height="200">
 
-👉 Scan the above QR or <a href="https://quizo-app.tiiny.site/" target="blank">Click here</a> to visit
+👉 Scan the above QR or [Click here](https://quizo-app.tiiny.site/) to visit
 
 
 
@@ -26,7 +26,7 @@ width="200" height="200">
   ➡️ Room Database (Based on SQLite) for local database functionality <br><br>
   ➡️ Firebase Firestore for centralized leaderboard functionality <br><br>
   ➡️ HTML used for displaying web related exceptions and java documentation <br><br>
-  ➡️ Java documentation generated using <a href="https://docs.oracle.com/en/java/javase/24/javadoc/javadoc-tool.html#GUID-7A344353-3BBF-45C4-8B28-15025DDCC643">JavaDoc</a> tool <br><br>
+  ➡️ Java documentation generated using [JavaDoc tool](https://docs.oracle.com/en/java/javase/24/javadoc/javadoc-tool.html#GUID-7A344353-3BBF-45C4-8B28-15025DDCC643) <br><br>
   
 
 # Dependencies
